@@ -65,7 +65,7 @@
 </p>
 <br>
 <p align="center">
-  Released date:- 2024.02.23
+  Released date:- 2024.02.22
   <br>
   Latest updated date:- 2024.02.22
 </p>
