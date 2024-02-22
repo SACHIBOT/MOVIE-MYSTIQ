@@ -1,0 +1,27 @@
+{
+"scripts": {
+"start": "pm2 start start.js --deep-monitoring --attach --name sachibot",
+"stop": "pm2 stop sachibot",
+"restart": "pm2 restart sachibot"
+},
+"dependencies": {
+"@whiskeysockets/baileys": "6.6.0",
+"pino": "^7.0.5",
+"pm2": "^5.3.1",
+"util": "^0.12.4",
+"express": "latest",
+"axios": "^1.2.5",
+"file_size_url": "^1.0.4",
+"cheerio": "^1.0.0-rc.12",
+"@bochilteam/scraper": "^4.0.22-alpha.0",
+"fs-extra": "^11.1.0",
+"api-dylux": "latest",
+"mfiredlcore-vihangayt": "^1.0.0",
+"path": "^0.12.7",
+"youtubedl-core": "^4.11.4",
+"node-fetch": "^2.6.1" ,
+"megajs": "^1.1.0",
+"vm": "^0.1.0",
+"qrcode-terminal": "^0.12.0"
+}
+}

@@ -1,0 +1,47 @@
+
+{
+    "name": "MOVIE-MYSTIQ (1.0.0)",
+    "description": "MOVIE-MYSTIQ has been designed to download movies using WhatsApp. 👨‍💻❤️",
+    "logo": "https://telegra.ph/file/e8d11fde869fd077944dd.jpg",
+    "keywords": ["nodejs", "bot", "whatsapp bot", "movie-downloader", "multi device", "movie-mystiq"],
+    "success_url": "/",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your session id.",
+        "required": true
+      },  
+  
+      "ALWAYS_ONLINE": {
+        "description": "Type true or false for make your whatsapp account always online or offline.",
+        "required": false
+      },
+      
+      "MAX_SIZE": {
+        "description": "Maximum size for download videos.",
+        "required": false
+      },
+
+      "ONLY_GROUP": {
+        "description": "Type true or false for only groups.",
+        "required": false
+      },
+      
+      "ONLY_ME": {
+        "description": "Type true or false for use only you.",
+        "required": false
+      },
+
+      "ALIVE": {
+        "description": "Alive message for bot.",
+        "required": false
+      }
+  },
+  
+       "buildpacks": [
+          {
+              "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+          }
+       ],
+    "stack": "heroku-22"
+  }
