@@ -6,6 +6,8 @@
 },
 "dependencies": {
 "@whiskeysockets/baileys": "6.6.0",
+"@sampandey001/baileys": "latest", 
+"@adiwajshing/keyed-db": "^0.2.4",
 "pino": "^7.0.5",
 "pm2": "^5.3.1",
 "util": "^0.12.4",
