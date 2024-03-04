@@ -11,7 +11,10 @@
         "description": "Put your session id.",
         "required": true
       },  
-  
+      "METHOD": {
+        "description": "Type your connection method. if you connect with qr , add 'QR', else if pair, add PAIR'.",
+        "required": true
+      },  
       "ALWAYS_ONLINE": {
         "description": "Type true or false for make your whatsapp account always online or offline.",
         "required": false
