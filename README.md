@@ -1,4 +1,4 @@
-<h1 align="center">MOVIE-MYSTIQ</h1>
+ <h1 align="center">MOVIE-MYSTIQ</h1>
 <h3 align="center">This Movie mystiq is a Whatsapp bot for download movies</h3>
 <br>
 <p align="center">
@@ -27,7 +27,7 @@
   <a href="https://replit.com/@SACHIBOT/MOVIE-MYSTIQ#README.md">
     <img src="https://img.shields.io/badge/LOGIN%20WITH%20PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="[https://q-r-c6a6a014f5d2.herokuapp.com/](https://sachibot-qr.up.railway.app/)">
+  <a href="https://sachibot-qr.up.railway.app/">
     <img src="https://img.shields.io/badge/LOGIN%20WITH%20QR%20CODE-darkblue" alt="LOGIN WITH QR CODE" width="250">
   </a>
 </p>
